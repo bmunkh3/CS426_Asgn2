@@ -7,7 +7,7 @@
 ## Gameplay Overview
 
 ### Objective:
-- **Primary Goal**: Avoid data overflow in memory by successfully processing and delivering data.
+Rescue. Avoid data overflow in memory by successfully processing and delivering data.
 
 ### Serious Objective:
 Learn about computer architecture, specifically input data overflow in memory, and understand its effects on system performance.
